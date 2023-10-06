@@ -90,7 +90,7 @@ public class Main {
         
         
         System.out.println("Enter your Choice:");
-            continue;
+            break;
         }while(choice==0);
             input.close();
     }
